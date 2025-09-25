@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config">
+    <ua_table_licensing_config action="INSERT_OR_UPDATE">
+        <is_fulfillment>false</is_fulfillment>
+        <license_condition/>
+        <license_model>none</license_model>
+        <license_roles/>
+        <name>x_1811965_john_g_john_g</name>
+        <op_delete>true</op_delete>
+        <op_insert>true</op_insert>
+        <op_update>true</op_update>
+        <owner_condition/>
+        <sys_class_name>ua_table_licensing_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-24 16:45:48</sys_created_on>
+        <sys_id>109fa137c34032109b9ebe13e401313e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1811965_john_g_john_g</sys_name>
+        <sys_package display_value="John G" source="x_1811965_john_g">3d0fe5f3c34032109b9ebe13e40131d0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="John G">3d0fe5f3c34032109b9ebe13e40131d0</sys_scope>
+        <sys_update_name>ua_table_licensing_config_109fa137c34032109b9ebe13e401313e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-24 16:45:48</sys_updated_on>
+    </ua_table_licensing_config>
+</record_update>
