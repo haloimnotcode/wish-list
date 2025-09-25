@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="">Custom Applications</category>
+        <description>JGD_buddy</description>
+        <device_type>browser</device_type>
+        <hint>JGD_buddy</hint>
+        <name/>
+        <order/>
+        <roles>user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-24 16:46:29</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>5ebfadb3c34032109b9ebe13e401310d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>John G</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="John G" source="x_1811965_john_g">3d0fe5f3c34032109b9ebe13e40131d0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="John G">3d0fe5f3c34032109b9ebe13e40131d0</sys_scope>
+        <sys_update_name>sys_app_application_5ebfadb3c34032109b9ebe13e401310d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-24 16:46:29</sys_updated_on>
+        <title>John G</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
